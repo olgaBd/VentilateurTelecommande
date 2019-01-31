@@ -3,7 +3,7 @@ Ventilation Électrique Contrôlée par un Arduino.
 projet realisee en binome avec @OSylla92 et @olgaBd.
 
 ## Video
-[![video](.jpg)](https://youtu.be/rzucSfwJmF4)
+[![video](https://img.youtube.com/vi/rzucSfwJmF4/0.jpg)](https://youtu.be/rzucSfwJmF4)
 
 ## composants
 * Pales et motor
