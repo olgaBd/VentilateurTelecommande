@@ -13,10 +13,9 @@ e
 + Ventilateur
 + Telecommande
 
-## SCHEMA ELECTRIQUE
-
 ![photo: ](fritz_temp.jpg)
-
-
-## Schema
+## SCHEMA ELECTRIQUE
 ![]()
+
+
+
